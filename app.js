@@ -31,5 +31,7 @@ geocode.geocodeAddress(argv.address, (errorMessage, results) => {
   }
 });
 
+console.log('Finding weather');
+
 
 //336249c5d0f7070d2421734d7856e116
